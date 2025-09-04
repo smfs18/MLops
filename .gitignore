@@ -2,10 +2,6 @@ Ambiente Virtual
 venv/
 /venv/
 
-Ficheiros de modelo
-*.pkl
-*.joblib
-*.h5
 
 Ficheiros de dados (adicione os seus)
 *.csv

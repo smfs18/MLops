@@ -1,0 +1,20 @@
+Ambiente Virtual
+venv/
+/venv/
+
+Ficheiros de modelo
+*.pkl
+*.joblib
+*.h5
+
+Ficheiros de dados (adicione os seus)
+*.csv
+*.parquet
+
+Caches do Python
+pycache/
+*.pyc
+
+Configurações de IDEs
+.vscode/
+.idea/
